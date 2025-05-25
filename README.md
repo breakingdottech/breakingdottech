@@ -10,7 +10,7 @@ and master offensive security.
 > Welcome to BreakingDotTech 🛠 
 A space where we break the system, hack the tech.
 
-Here you'll find:
+Here you\'ll find:
 - Hands-on hacking Kubernetes,Active Directory, Cloud Services and more
 - Privilege escalation techniques across multiple platforms  
 - CTF writeups to sharpen your offensive skills  
