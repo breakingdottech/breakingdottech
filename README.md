@@ -3,7 +3,7 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me 
 ```bash
 > whoami  
-I’m 0xfiction, a red teamer with a curiosity for technology.  
+I’m fiction, a red teamer with a curiosity for technology.  
 Passionate about learning, exploring, and breaking systems to uncover vulnerabilities  
 and master offensive security.
 
