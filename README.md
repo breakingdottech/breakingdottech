@@ -1,4 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0BF700&background=2F2F2F55&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Welcome+to+Breaking+Tech)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&width=435&height=30&lines=Welcome+to+BREAKING+TECH)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Welcome+to+Breaking+Tech)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&width=435&height=30&lines=Break+the+system%2C+Hack+the+Tech)](https://git.io/typing-svg)
 
