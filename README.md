@@ -1,24 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1650&pause=1000&color=F70404&background=181818&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Welcome+to+BREAKING+TECH)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)
-
-<br><br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)<br>
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 ```bash
 > whoami  
-I’m **0xfiction**, a red teamer with a curiosity for technology.  
+I’m 0xfiction, a red teamer with a curiosity for technology.  
 Passionate about learning, exploring, and breaking systems to uncover vulnerabilities  
 and master offensive security.
 
-> Welcome to **BreakingDotTech**  
-A space where we **break the system, hack the tech** — our motto and mission.
+> Welcome to \*\*BreakingDotTech\*\*  
+A space where we break the system, hack the tech — our motto and mission.
 
 Here you'll find:
 - Hands-on labs for **Kubernetes, Windows, Linux**, and more  
-- 🛡 **Privilege escalation** techniques across multiple platforms  
+- **Privilege escalation** techniques across multiple platforms  
 - **CTF writeups** to sharpen your offensive skills  
-- ⚙ Tutorials on setting up and exploiting **complex environments**  
+-Tutorials on setting up and exploiting **complex environments**  
 - 🛠 Tools, tips, and walkthroughs for real-world **pentesting**
 
 > The mission  
