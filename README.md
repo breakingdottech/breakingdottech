@@ -2,28 +2,30 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1600&pause=1000&color=FFFFFF&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me 
 ```bash
-> whoami  
-I’m fiction, a red teamer with a curiosity for technology.  
-Passionate about learning, exploring, and breaking systems to uncover vulnerabilities  
-and master offensive security.
+I’m fiction, a red teamer driven by curiosity and a passion for technology.  
+I break systems to understand how they work, uncover vulnerabilities,  
+and sharpen my skills in offensive security.
 
-> Welcome to BreakingDotTech 🛠 
+> Welcome to BreakingDotTech 🛠  
 A space where we break the system, hack the tech.
 
-Here you\'ll find:
-- Hands-on hacking Kubernetes,Active Directory, Cloud Services and more
-- Privilege escalation techniques across multiple platforms  
+Here you'll find:
+- Labs and walkthroughs for Kubernetes, Active Directory, cloud, Linux, and more  
+- Privilege escalation techniques across platforms  
 - CTF writeups to sharpen your offensive skills  
-- Tutorials on setting up and exploiting complex environments
-- Tools, tips, and walkthroughs for real-world pentesting
-- Secure coding and deployment principles from a break-to-fix perspective
+- Tutorials on exploiting and defending complex environments  
+- Tools, tricks, and walkthroughs for real-world pentesting  
+- Reflections on secure coding from an attacker's point of view
 
-> The mission  
-To make open-source software more secure by thinking like an attacker.  
-By breaking vulnerable machines, insecure K8s clusters, and misconfigured systems,  
-I learn, document, and share how to defend better.  
-Eventually, the goal is to teach how to build more secure infrastructure,  
-write hardened code, and think like a red teamer — to secure like a blue teamer.
+> Why this exists  
+I break misconfigured systems, vulnerable machines, and insecure clusters  
+to learn how attackers think — and how defenders should respond.  
+
+By documenting what I learn, I hope to help others see how small gaps become big risks.  
+It’s not just about exploitation — it’s about understanding where systems fail  
+so we can build them back stronger.
+
+To learn how to break like a hacker, and build like an engineer.
 
 Let’s break technology, together!
 
