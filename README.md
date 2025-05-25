@@ -1,17 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0BF700&background=2F2F2F55&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Welcome+to+Breaking+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1CF709&background=2F2F2F55&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Welcome+to+Breaking+Tech)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=1CF709&background=181818&vCenter=true&repeat=false&width=500&height=40&lines=Welcome+to+Breaking+Tech)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&width=435&height=30&lines=Break+the+system%2C+Hack+the+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=1CF709&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1CF709&background=333333&center=true&vCenter=true&repeat=false&width=427&height=30&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&width=435&height=30&lines=Welcome+to+BREAKING+TECH)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Welcome+to+Breaking+Tech)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=2F2F2F55&center=true&vCenter=true&width=435&height=30&lines=Break+the+system%2C+Hack+the+Tech)](https://git.io/typing-svg)
-
 
 ```bash
-> Welcome to BreakingDotTech
 > whoami
 I’m 0xfiction, a red teamer with a curious kid inside, passionate about learning, exploring, and breaking systems to uncover vulnerabilities and master offensive security.
-0xfiction - Red Teamer | Offensive Security Enthusiast | Eternal Learner
+
+> Welcome to BreakingDotTech
+Here you'll find:
+
+- Hands-on labs for Kubernetes, Windows, Linux, and more 🔥
+- Privilege escalation techniques across multiple platforms 🛡️
+- Capture The Flag (CTF) writeups to sharpen your skills 🏆
+- Tutorials on setting up and exploiting complex environments ⚙️
+- Tools, tips, and walkthroughs for real-world pentesting ![image](https://github.com/user-attachments/assets/886e8d52-ebc3-4977-89ef-b13be829c287)
+
+
+I’m continuously learning and sharing my journey, tools, and knowledge to help you become a better red teamer and security researcher.
+
+**Let’s break tech, together!**
 ```
 
 <p align="left">
@@ -20,6 +36,11 @@ I’m 0xfiction, a red teamer with a curious kid inside, passionate about learni
 
 <br>
 <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</p>
+
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
