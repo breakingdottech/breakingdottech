@@ -9,7 +9,7 @@ and sharpen my skills in offensive security.
 > Welcome to BreakingDotTech 🛠  
 A space where we break the system, hack the tech.
 
-Here you'll find:
+Here you\'ll find:
 - Labs and walkthroughs for Kubernetes, Active Directory, cloud, Linux, and more  
 - Privilege escalation techniques across platforms  
 - CTF writeups to sharpen your offensive skills  
