@@ -15,7 +15,7 @@ Here you\'ll find:
 - CTF writeups to sharpen your offensive skills  
 - Tutorials on exploiting and defending complex environments  
 - Tools, tricks, and walkthroughs for real-world pentesting  
-- Reflections on secure coding from an attacker's point of view
+- Reflections on secure coding from an attacker\'s point of view
 
 > Why this exists  
 I break misconfigured systems, vulnerable machines, and insecure clusters  
