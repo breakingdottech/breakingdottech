@@ -32,8 +32,19 @@ YouTube https://youtube.com/breakingdottech
 Twitter https://twitter.com/breakingdottech
 
 ```
-## Connect with me  
+## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=breakingdottech&show_icons=true&count_private=true" align="center" /></div> </br>
+
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=breakingdottech" align="center" />
+</div>  
+<br>
+
+## Connect with me  
+<div align="left">
+<a href="https://youtube.com/breakingdottech" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=youtub&logoColor=white alt=youtub style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/breakingdottech" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -45,16 +56,7 @@ Twitter https://twitter.com/breakingdottech
 </a>
 </div>  
  
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=breakingdottech&show_icons=true&count_private=true" align="center" /></div> </br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=breakingdottech" align="center" />
-</div>  
-<br>
-
+<br/> 
 <!-- 
 
 <div align="left">
