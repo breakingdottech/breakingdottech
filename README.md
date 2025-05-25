@@ -1,7 +1,13 @@
-<div align="left">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1650&pause=1000&color=F70404&background=181818&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Welcome+to+BREAKING+TECH)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)<br>
-</div>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1650&pause=1000&color=F70404&background=181818&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Welcome+to+BREAKING+TECH" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech." />
+  </a>
+</p>
+
 <div align="right">
 ## About me <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>
 </div>
@@ -62,7 +68,10 @@ Twitter https://twitter.com/breakingdottech
 
 <!-- 
 
-
+<div align="left">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1650&pause=1000&color=F70404&background=181818&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Welcome+to+BREAKING+TECH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)<br>
+</div>
 ![Terminal Hacker Gif](https://media.giphy.com/media/xUOxf48t5X9uV1mwGY/giphy.gif)
 
 ```bash
