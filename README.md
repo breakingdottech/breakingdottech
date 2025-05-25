@@ -42,7 +42,7 @@ Twitter https://twitter.com/breakingdottech
 
 ## Connect with me  
 <div align="left">
-<a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCHuHUhWj_CD1vkLc5zKxOuw?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://breakingdottech.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Blog-BREAKING%20TECH-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Blog" style="margin-bottom: 5px;" />
 </a>
