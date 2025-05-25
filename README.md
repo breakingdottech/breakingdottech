@@ -19,7 +19,7 @@ Here you'll find:
 
 > Why this exists  
 I break misconfigured systems, vulnerable machines, and insecure clusters  
-to learn how attackers think — and how defenders should respond.  
+to learn how attackers think.
 
 By documenting what I learn, I hope to help others see how small gaps become big risks.  
 It’s not just about exploitation — it’s about understanding where systems fail  
