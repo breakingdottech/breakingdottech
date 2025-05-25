@@ -8,7 +8,7 @@ Passionate about learning, exploring, and breaking systems to uncover vulnerabil
 and master offensive security.
 
 > Welcome to BreakingDotTech 🛠 
-A space where we break the system, hack the tech — our motto and mission.
+A space where we break the system, hack the tech.
 
 Here you\'ll find:
 - Hands-on hacking Kubernetes,Active Directory, Cloud Services and more
@@ -42,9 +42,8 @@ Twitter https://twitter.com/breakingdottech
 
 ## Connect with me  
 <div align="left">
-<a href="https://youtube.com/breakingdottech" target="_blank">
-<img src=https://img.shields.io/badge/youtube%2324292e.svg?&style=for-the-badge&logo=youtub&logoColor=white alt=youtub style="margin-bottom: 5px;" />
-</a>
+<a href="https://www.youtube.com/channel/UCipSxT7a3rn81vGLw9lqRkg?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
 <a href="https://github.com/breakingdottech" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
