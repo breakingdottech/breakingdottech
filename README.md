@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&duration=1650&pause=1000&color=F70404&background=181818&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Welcome+to+BREAKING+TECH)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F70404&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)<br>
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+
+<div align="right">
+## About me <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%>
+</div>
+
 ```bash
 > whoami  
 I’m 0xfiction, a red teamer with a curiosity for technology.  
@@ -15,10 +19,15 @@ Here you\'ll find:
 - Privilege escalation techniques across multiple platforms  
 - CTF writeups to sharpen your offensive skills  
 - Tutorials on setting up and exploiting complex environments
-- Tools, tips, and walkthroughs for real-world pentesting 
+- Tools, tips, and walkthroughs for real-world pentesting
+- Secure coding and deployment principles from a break-to-fix perspective
 
 > The mission  
-I’m continuously learning and sharing my journey, tools, techniques, and experiences from my journey into offensive security and red teaming.
+To make open-source software more secure by thinking like an attacker.  
+By breaking vulnerable machines, insecure K8s clusters, and misconfigured systems,  
+I learn, document, and share how to defend better.  
+Eventually, the goal is to teach how to build more secure infrastructure,  
+write hardened code, and think like a red teamer — to secure like a blue teamer.
 
 Let’s break technology, together!
 
@@ -48,22 +57,6 @@ Twitter https://twitter.com/breakingdottech
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=breakingdottech" align="center" />
 </div>  
-
-<br />
-<br>
-<img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
-</p>
-
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
-</p>
-
-
-
 <br>
 
 <!-- 
