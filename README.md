@@ -43,7 +43,7 @@ Twitter https://twitter.com/breakingdottech
 ## Connect with me  
 <div align="left">
 <a href="https://youtube.com/breakingdottech" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=youtub&logoColor=white alt=youtub style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/youtube%2324292e.svg?&style=for-the-badge&logo=youtub&logoColor=white alt=youtub style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/breakingdottech" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
