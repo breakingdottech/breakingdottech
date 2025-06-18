@@ -2,8 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1600&pause=1000&color=FFFFFF&background=181818&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Break+the+system%2C+Hack+the+Tech.)](https://git.io/typing-svg)
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me 
 ```bash
-I’m fiction, a red teamer driven by curiosity and the desire to understand systems by breaking them.
-I explore how attackers think, how defenders fail, and how we can build things back stronger.
+I’m fiction, a red teamer driven by curiosity and a passion for technology.
+I break systems to understand how they work, uncover vulnerabilities,  
+and sharpen my skills in offensive security.
 
 > Welcome to BreakingDotTech 🛠  
 A space where we break the system, hack the tech.
@@ -13,16 +14,12 @@ Here you\'ll find:
 - Privilege escalation techniques across platforms  
 - Real-world CTF and red team writeups  
 - Tutorials on exploiting and defending complex environments  
-- Tools, tricks, and walkthroughs for real-world pentesting  
+- Tools, scripts, and walkthroughs for real-world pentesting scenarios.  
 - Reflections on secure coding from an attacker\'s mindset  
 
 > Why this exists  
 I break misconfigured systems, vulnerable machines, and insecure clusters  
 to understand how they fail — and where they can be made resilient.
-
-By documenting what I learn, I hope to help others see how small gaps become big risks.  
-It’s not just about exploitation — it’s about understanding where systems fail  
-so we can build them back stronger.
 
 It’s not just about exploiting gaps.
 It’s about thinking like an attacker, then building like an engineer.
