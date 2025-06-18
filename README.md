@@ -6,7 +6,7 @@ I’m fiction, a red teamer driven by curiosity and the desire to understand sys
 I explore how attackers think, how defenders fail, and how we can build things back stronger.
 
 > Welcome to BreakingDotTech 🛠  
-A space where we break the system, hack the tech — and learn to build it better.
+A space where we break the system, hack the tech.
 
 Here you\'ll find:
 - Labs and walkthroughs for Kubernetes, Active Directory, cloud, Linux, and more  
