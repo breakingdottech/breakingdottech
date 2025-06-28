@@ -10,7 +10,7 @@ and sharpen my skills in offensive security.
 A space where we break the system, hack the tech.
 
 Here you\'ll find:
-- Labs and walkthroughs for Kubernetes, Active Directory, cloud, Linux, and more  
+- Labs and walkthroughs for Kubernetes Hacking, Active Directory Hacking, cloud hacking and more
 - Privilege escalation techniques across platforms  
 - Real-world CTF and red team writeups  
 - Tutorials on exploiting and defending complex environments  
